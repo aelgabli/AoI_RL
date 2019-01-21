@@ -38,6 +38,7 @@ To view the results, run
 python plot_results.py
 ```
 #Citation
+
 @article{elgabli2018reinforcement,
   title={Reinforcement learning based scheduling algorithm for optimizing age of information in ultra reliable low latency networks},
   author={Elgabli, Anis and Khan, Hamza and Krouka, Mounssif and Bennis, Mehdi},
